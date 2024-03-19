@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="footer">
             </div>
             <div className="copyright">
-                <p className="copyright-blog">© 2022 Gilbert Hutapea. All Rights Reserved</p>
+                <p className="copyright-blog">© 2024 Blog by prakash rawat | <a href="https://prakash-uniyal.onrender.com/">prakash-uniyal</a> | All Rights Reserved</p>
             </div>
         </div>
     )
